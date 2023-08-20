@@ -239,6 +239,78 @@
             "description": "Convenient wireless keyboard and mouse set for your desktop.",
             "image": "keyboard_mouse_combo.jpg",
             "category": "Electronics"
+        },
+        {
+            "id": 31,
+            "name": "Ladies' Kurty",
+            "price": 34.99,
+            "description": "Elegant kurty for women in various designs.",
+            "image": "ladies_kurty.jpg",
+            "category": "ladies-kurty"
+        },
+        {
+            "id": 32,
+            "name": "Men's T-Shirt",
+            "price": 17.99,
+            "description": "Classic men's t-shirt in a variety of colors.",
+            "image": "mens_tshirt.jpg",
+            "category": "mens-t-shirt"
+        },
+        {
+            "id": 33,
+            "name": "Formal Shirt",
+            "price": 29.99,
+            "description": "Sophisticated formal shirt for special occasions.",
+            "image": "formal_shirt.jpg",
+            "category": "formal-shirt"
+        },
+        {
+            "id": 34,
+            "name": "Men's Panjabi",
+            "price": 39.99,
+            "description": "Traditional men's panjabi with intricate detailing.",
+            "image": "mens_panjabi.jpg",
+            "category": "mens-panjabi"
+        },
+        {
+            "id": 35,
+            "name": "Men's Polo Shirt",
+            "price": 22.99,
+            "description": "Casual and comfortable polo shirt for men.",
+            "image": "mens_polo.jpg",
+            "category": "mens-polo"
+        },
+        {
+            "id": 36,
+            "name": "Ladies' Tops",
+            "price": 18.99,
+            "description": "Trendy tops for women in various styles.",
+            "image": "ladies_tops.jpg",
+            "category": "LADIES-TOPS"
+        },
+        {
+            "id": 37,
+            "name": "Ladies' Dupatta",
+            "price": 9.99,
+            "description": "Colorful dupattas to complement your ethnic outfits.",
+            "image": "ladies_dupatta.jpg",
+            "category": "ladies-dupatta"
+        },
+        {
+            "id": 38,
+            "name": "Ladies' T-Shirt",
+            "price": 14.99,
+            "description": "Casual and comfortable t-shirt for women.",
+            "image": "ladies_tshirt.jpg",
+            "category": "LADIES-T-SHIRT"
+        },
+        {
+            "id": 39,
+            "name": "Stylish Men's Shoes",
+            "price": 59.99,
+            "description": "Fashionable men's shoes for various occasions.",
+            "image": "mens_shoes.jpg",
+            "category": "shoes"
         }
     ]
 }
