@@ -1,0 +1,244 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Bluetooth Headphones",
+            "price": 49.99,
+            "description": "High-quality wireless headphones with noise-cancellation feature.",
+            "image": "headphones.jpg",
+            "category": "Electronics"
+        },
+        {
+            "id": 2,
+            "name": "Cotton Crewneck T-Shirt",
+            "price": 12.99,
+            "description": "Comfortable cotton t-shirt for everyday wear.",
+            "image": "tshirt.jpg",
+            "category": "Clothing"
+        },
+        {
+            "id": 3,
+            "name": "Smartphone Stand and Charger",
+            "price": 29.99,
+            "description": "A versatile stand that holds your smartphone and charges it simultaneously.",
+            "image": "smartphone_stand.jpg",
+            "category": "Electronics"
+        },
+        {
+            "id": 4,
+            "name": "Stainless Steel Water Bottle",
+            "price": 18.99,
+            "description": "Durable stainless steel water bottle, perfect for outdoor activities.",
+            "image": "water_bottle.jpg",
+            "category": "Home"
+        },
+        {
+            "id": 5,
+            "name": "Classic Leather Wallet",
+            "price": 34.99,
+            "description": "Elegant leather wallet with multiple card slots and a coin pocket.",
+            "image": "wallet.jpg",
+            "category": "Accessories"
+        },
+        {
+            "id": 6,
+            "name": "LED Desk Lamp",
+            "price": 27.99,
+            "description": "Adjustable LED desk lamp with various color temperature settings.",
+            "image": "desk_lamp.jpg",
+            "category": "Home"
+        },
+        {
+            "id": 7,
+            "name": "Fitness Tracker Watch",
+            "price": 89.99,
+            "description": "Track your steps, heart rate, and workouts with this advanced fitness watch.",
+            "image": "fitness_watch.jpg",
+            "category": "Fitness"
+        },
+        {
+            "id": 8,
+            "name": "Canvas Backpack",
+            "price": 42.99,
+            "description": "Stylish canvas backpack with multiple compartments for storage.",
+            "image": "backpack.jpg",
+            "category": "Accessories"
+        },
+        {
+            "id": 9,
+            "name": "Portable Bluetooth Speaker",
+            "price": 39.99,
+            "description": "Compact and powerful Bluetooth speaker for on-the-go music.",
+            "image": "bluetooth_speaker.jpg",
+            "category": "Electronics"
+        },
+        {
+            "id": 10,
+            "name": "Denim Jacket",
+            "price": 54.99,
+            "description": "Classic denim jacket for a timeless casual look.",
+            "image": "denim_jacket.jpg",
+            "category": "Clothing"
+        },
+        {
+            "id": 11,
+            "name": "Wireless Gaming Mouse",
+            "price": 69.99,
+            "description": "Responsive wireless gaming mouse with customizable RGB lighting.",
+            "image": "gaming_mouse.jpg",
+            "category": "Electronics"
+        },
+        {
+            "id": 12,
+            "name": "Scented Soy Candle Set",
+            "price": 19.99,
+            "description": "Set of scented soy candles in various relaxing fragrances.",
+            "image": "candle_set.jpg",
+            "category": "Home"
+        },
+        {
+            "id": 13,
+            "name": "Leather Crossbody Bag",
+            "price": 62.99,
+            "description": "Chic leather crossbody bag with adjustable strap.",
+            "image": "crossbody_bag.jpg",
+            "category": "Accessories"
+        },
+        {
+            "id": 14,
+            "name": "HD Webcam with Microphone",
+            "price": 59.99,
+            "description": "High-definition webcam with built-in microphone for video conferencing.",
+            "image": "webcam.jpg",
+            "category": "Electronics"
+        },
+        {
+            "id": 15,
+            "name": "Yoga Mat and Accessories Set",
+            "price": 32.99,
+            "description": "Complete yoga mat and accessories bundle for your daily practice.",
+            "image": "yoga_set.jpg",
+            "category": "Fitness"
+        },
+        {
+            "id": 16,
+            "name": "Stainless Steel Mixing Bowls",
+            "price": 28.99,
+            "description": "Set of stainless steel mixing bowls in various sizes.",
+            "image": "mixing_bowls.jpg",
+            "category": "Home"
+        },
+        {
+            "id": 17,
+            "name": "Men's Classic Watch",
+            "price": 79.99,
+            "description": "Timeless men's watch with a leather strap and elegant design.",
+            "image": "classic_watch.jpg",
+            "category": "Accessories"
+        },
+        {
+            "id": 18,
+            "name": "Wireless In-Ear Earphones",
+            "price": 44.99,
+            "description": "Comfortable wireless in-ear earphones for your music enjoyment.",
+            "image": "earphones.jpg",
+            "category": "Electronics"
+        },
+        {
+            "id": 19,
+            "name": "Gym Duffel Bag",
+            "price": 49.99,
+            "description": "Spacious gym duffel bag with separate compartments for your gear.",
+            "image": "duffel_bag.jpg",
+            "category": "Fitness"
+        },
+        {
+            "id": 20,
+            "name": "Cozy Fleece Blanket",
+            "price": 22.99,
+            "description": "Soft and warm fleece blanket for those chilly nights.",
+            "image": "fleece_blanket.jpg",
+            "category": "Home"
+        },
+        {
+            "id": 21,
+            "name": "Minimalist Leather Wallet",
+            "price": 29.99,
+            "description": "Slim and minimalist leather wallet with card slots.",
+            "image": "minimalist_wallet.jpg",
+            "category": "Accessories"
+        },
+        {
+            "id": 22,
+            "name": "Portable Power Bank",
+            "price": 19.99,
+            "description": "Compact portable power bank for charging devices on the go.",
+            "image": "power_bank.jpg",
+            "category": "Electronics"
+        },
+        {
+            "id": 23,
+            "name": "Running Shoes",
+            "price": 69.99,
+            "description": "High-performance running shoes with cushioned soles.",
+            "image": "running_shoes.jpg",
+            "category": "Footwear"
+        },
+        {
+            "id": 24,
+            "name": "Stainless Steel Kitchen Utensil Set",
+            "price": 36.99,
+            "description": "Comprehensive set of stainless steel kitchen utensils.",
+            "image": "kitchen_utensils.jpg",
+            "category": "Home"
+        },
+        {
+            "id": 25,
+            "name": "Men's Leather Belt",
+            "price": 24.99,
+            "description": "Genuine leather belt with a versatile and timeless design.",
+            "image": "leather_belt.jpg",
+            "category": "Accessories"
+        },
+        {
+            "id": 26,
+            "name": "Bluetooth Noise-Canceling Headphones",
+            "price": 129.99,
+            "description": "Premium over-ear headphones with active noise cancellation.",
+            "image": "noise_canceling_headphones.jpg",
+            "category": "Electronics"
+        },
+        {
+            "id": 27,
+            "name": "Yoga Blocks Set",
+            "price": 14.99,
+            "description": "Set of yoga blocks for support and balance during yoga practice.",
+            "image": "yoga_blocks.jpg",
+            "category": "Fitness"
+        },
+        {
+            "id": 28,
+            "name": "Stainless Steel Travel Mug",
+            "price": 16.99,
+            "description": "Insulated travel mug to keep your beverages hot or cold.",
+            "image": "travel_mug.jpg",
+            "category": "Home"
+        },
+        {
+            "id": 29,
+            "name": "Women's Fashion Watch",
+            "price": 39.99,
+            "description": "Stylish women's watch with a trendy design and leather strap.",
+            "image": "fashion_watch.jpg",
+            "category": "Accessories"
+        },
+        {
+            "id": 30,
+            "name": "Wireless Keyboard and Mouse Combo",
+            "price": 54.99,
+            "description": "Convenient wireless keyboard and mouse set for your desktop.",
+            "image": "keyboard_mouse_combo.jpg",
+            "category": "Electronics"
+        }
+    ]
+}
